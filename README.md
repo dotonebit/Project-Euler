@@ -4,4 +4,4 @@ Project Euler is a series of challenging mathematical/computer programming probl
 
 See: https://projecteuler.net/about
 
-This repository is dedicated to publish my solutions to the problems found in Archives.
+This repository is dedicated to publishing my solutions to the problems found in Archives.
